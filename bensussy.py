@@ -11,5 +11,5 @@ else:
         whosussy = input("Stop with the cap and tell the truth. Who is the sussy? ")
         if whosussy == sussy:
             print("Finally, you admit that Ben is the sussy.")
-            print("Ben: gheuq8efkedjwjq)
+            print("Ben: gheuq8efkedjwjq1)
             quit()
