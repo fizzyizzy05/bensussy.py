@@ -1,6 +1,6 @@
 print("bensussy.py is a script made by jennasilicon. Don't take it seriously, it was made for an inside joke xD")
 print(" ")
-whosussy = input("Who is sussy? ");
+whosussy = input("Who is sussy? ")
 sussy = "Ben"
 if sussy == whosussy:
     print("Yes, you are right. Ben is always sus, never not sus")
